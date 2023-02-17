@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreviumTakeHome", "BreviumTakeHome\BreviumTakeHome.csproj", "{CD5C83B9-46CB-4ECB-90C9-FB6B3D7D5996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5C83B9-46CB-4ECB-90C9-FB6B3D7D5996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5C83B9-46CB-4ECB-90C9-FB6B3D7D5996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5C83B9-46CB-4ECB-90C9-FB6B3D7D5996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5C83B9-46CB-4ECB-90C9-FB6B3D7D5996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A1AD7F-10A5-462F-8221-896B0811639F}
+	EndGlobalSection
+EndGlobal
